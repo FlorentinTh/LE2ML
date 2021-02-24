@@ -2,7 +2,7 @@
 
 [![GitHub release](https://img.shields.io/github/release/FlorentinTh/LE2ML.svg?style=flat-square)](https://github.com/FlorentinTh/LE2ML/releases) [![GitHub](https://img.shields.io/github/license/FlorentinTh/LE2ML.svg?style=flat-square)](https://github.com/FlorentinTh/LE2ML/blob/main/LICENSE) [![Last Commit](https://img.shields.io/github/last-commit/FlorentinTh/LE2ML?style=flat-square)](https://github.com/FlorentinTh/LE2ML/commits/main)
 
-Main repository of the LIARA Environment for Modular Machine Learning (LE2ML) workbench.
+**Main repository of the LIARA Environment for Modular Machine Learning (LE2ML) workbench.**
 
 ## Authors
 
@@ -10,7 +10,9 @@ Main repository of the LIARA Environment for Modular Machine Learning (LE2ML) wo
 
 ## Related Paper
 
-*currently under submission*
+Currently **submitted** to [Springer Journal of Ambient Intelligence and Humanized Computing](https://www.springer.com/journal/12652)
+
+*Sources of the publication are accessible through the repository [LE2ML-Publication](https://github.com/FlorentinTh/LE2ML-Publication)*
 
 ## Related Repositories
 
@@ -34,7 +36,7 @@ Main repository of the LIARA Environment for Modular Machine Learning (LE2ML) wo
 
 ## Related Projects
 
-* [**LE2ML**](https://github.com/FlorentinTh/LE2ML)
+* [**SHCA**](https://github.com/FlorentinTh/LE2ML)
   > Main repository of the LIARA Smart Home Cluster Architecture (SHCA).
 
 ## License
