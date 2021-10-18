@@ -12,7 +12,7 @@
 
 Thullier, F., Hallé, S. & Gaboury, S. LE2ML: a microservices-based machine learning workbench as part of an agnostic, reliable and scalable architecture for smart homes. J Ambient Intell Human Comput (2021). https://doi.org/10.1007/s12652-021-03528-8
 
-[![Springer](https://img.shields.io/badge/Springer-link-blue)](https://link.springer.com/article/10.1007/s12652-021-03528-8)
+[![Springer](https://img.shields.io/badge/Springer-link-blue?style=flat-square)](https://link.springer.com/article/10.1007/s12652-021-03528-8)
 
 ## Related Repositories
 
