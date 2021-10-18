@@ -1,6 +1,6 @@
 # LE2ML
 
-[![GitHub release](https://img.shields.io/github/release/FlorentinTh/LE2ML.svg?style=flat-square)](https://github.com/FlorentinTh/LE2ML/releases) [![GitHub](https://img.shields.io/github/license/FlorentinTh/LE2ML.svg?style=flat-square)](https://github.com/FlorentinTh/LE2ML/blob/main/LICENSE) [![Last Commit](https://img.shields.io/github/last-commit/FlorentinTh/LE2ML?style=flat-square)](https://github.com/FlorentinTh/LE2ML/commits/main)
+[![GitHub](https://img.shields.io/github/license/FlorentinTh/LE2ML.svg?style=flat-square)](https://github.com/FlorentinTh/LE2ML/blob/main/LICENSE) [![Last Commit](https://img.shields.io/github/last-commit/FlorentinTh/LE2ML?style=flat-square)](https://github.com/FlorentinTh/LE2ML/commits/main)
 
 **Main repository of the LIARA Environment for Modular Machine Learning (LE2ML) workbench.**
 
@@ -10,9 +10,9 @@
 
 ## Related Paper
 
-Currently **submitted** to [Springer Journal of Ambient Intelligence and Humanized Computing](https://www.springer.com/journal/12652)
+Thullier, F., Hallé, S. & Gaboury, S. LE2ML: a microservices-based machine learning workbench as part of an agnostic, reliable and scalable architecture for smart homes. J Ambient Intell Human Comput (2021). https://doi.org/10.1007/s12652-021-03528-8
 
-*Sources of the publication are accessible through the repository [LE2ML-Publication](https://github.com/FlorentinTh/LE2ML-Publication)*
+[![Springer](https://img.shields.io/badge/Springer-link-blue)](https://link.springer.com/article/10.1007/s12652-021-03528-8)
 
 ## Related Repositories
 
@@ -36,7 +36,7 @@ Currently **submitted** to [Springer Journal of Ambient Intelligence and Humaniz
 
 ## Related Projects
 
-* [**SHCA**](https://github.com/FlorentinTh/LE2ML)
+* [**LIARA-SHCA**](https://github.com/FlorentinTh/LIARA-SHCA)
   > Main repository of the LIARA Smart Home Cluster Architecture (SHCA).
 
 ## License
