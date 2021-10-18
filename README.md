@@ -1,6 +1,6 @@
 # LE2ML
 
-[![GitHub](https://img.shields.io/github/license/FlorentinTh/LE2ML.svg?style=flat-square)](https://github.com/FlorentinTh/LE2ML/blob/main/LICENSE) [![Last Commit](https://img.shields.io/github/last-commit/FlorentinTh/LE2ML?style=flat-square)](https://github.com/FlorentinTh/LE2ML/commits/main)
+[![GitHub](https://img.shields.io/github/license/FlorentinTh/LE2ML?style=flat-square)](https://github.com/FlorentinTh/LE2ML/blob/main/LICENSE) [![Last Commit](https://img.shields.io/github/last-commit/FlorentinTh/LE2ML?style=flat-square)](https://github.com/FlorentinTh/LE2ML/commits/main)
 
 **Main repository of the LIARA Environment for Modular Machine Learning (LE2ML) workbench.**
 
